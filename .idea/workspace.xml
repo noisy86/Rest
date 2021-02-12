@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d111712-8018-4d82-8605-24a33779d9c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1o3bWOP3U530kDZJzzDQF3J94Ki" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Code/gdvt/Rasterization" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d111712-8018-4d82-8605-24a33779d9c1" name="Default Changelist" comment="" />
+      <created>1612518251268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612518251268</updated>
+      <workItem from="1612518254796" duration="4264000" />
+      <workItem from="1612816759762" duration="3940000" />
+      <workItem from="1613085214199" duration="7000" />
+      <workItem from="1613085349407" duration="8124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="285" y="227" key="#com.intellij.ide.util.MemberChooser" timestamp="1613150014056">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="285" y="227" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1613150014056" />
+    <state x="1173" y="492" key="FileChooserDialogImpl" timestamp="1612819916624">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1173" y="492" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1612819916624" />
+    <state width="914" height="285" key="GridCell.Tab.0.bottom" timestamp="1612628911610">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1612628911610" />
+    <state width="914" height="285" key="GridCell.Tab.0.center" timestamp="1612628911610">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1612628911610" />
+    <state width="914" height="285" key="GridCell.Tab.0.left" timestamp="1612628911609">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1612628911609" />
+    <state width="914" height="285" key="GridCell.Tab.0.right" timestamp="1612628911610">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1612628911610" />
+    <state x="490" y="181" key="Maven.ArtifactSearchDialog" timestamp="1612518758569">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="490" y="181" key="Maven.ArtifactSearchDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1612518758569" />
+    <state x="1089" y="561" key="com.intellij.ide.util.TipDialog" timestamp="1612816765170">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1089" y="561" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1612816765170" />
+    <state x="685" y="432" key="new project wizard" timestamp="1612885429214">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="685" y="432" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1612885429214" />
+  </component>
+</project>
